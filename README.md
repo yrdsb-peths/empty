@@ -1,2 +1,2 @@
-# empty
-An empty repository with a readme file
+# Project Title
+Description of project
